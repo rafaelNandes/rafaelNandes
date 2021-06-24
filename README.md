@@ -6,9 +6,8 @@
 
 <b>About me:</b>
 
-- :heart_eyes: Passionate about programming, music and coffee
-
-- 📚 I’m currently learning ReactJS and MVVM with Kotlin
+- :heart_eyes: Passionate about programming, music and coffee;
+- :books: I’m currently learning ReactJS and MVVM with Kotlin;
 - :trophy: My goal is to build myself as a senior Android developer, share my knowledges and leave my professional legacy.
 
 <br>
