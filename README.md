@@ -6,7 +6,7 @@
 
 <b>About me:</b>
 
-- :house_with_garden: I'm currently living in São Paulo, Brazil;
+- :house_with_garden: I'm living in São Paulo, Brazil;
 - :heart_eyes: Passionate about programming, music and coffee;
 - :books: I’m currently learning ReactJS and MVVM with Kotlin;
 - :trophy: My goal is to build myself as a senior Android developer, share my knowledges and leave my professional legacy.
