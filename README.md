@@ -8,14 +8,12 @@
 
 - :house_with_garden: I'm living in São Paulo, Brazil;
 - :heart_eyes: Passionate about programming, music and coffee;
-- :books: I’m currently learning ReactJS and MVVM with Kotlin;
-- :trophy: My goal is to build myself as a senior Android developer, share my knowledges and leave my professional legacy.
+- :trophy: My goal is to build myself as a senior developer, share my knowledges and leave my professional legacy.
 
 <br>
 
 <b>Technologies and Tools:</b>
 
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
